@@ -1,0 +1,1 @@
+# Blog-14- This application is a blog post app that allows users to login and create blog posts. Users can also view other users posts and comment on them. Users can also edit and delete their own posts and comments. 
